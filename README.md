@@ -1,6 +1,7 @@
 # Facebook Link
 https://www.facebook.com/K.TiTiscarves
-<img width="1366" height="4134" alt="FireShot Capture 015 - (2) Facebook -  www facebook com" src="https://github.com/user-attachments/assets/238ab556-9aa2-43e9-90ab-5e75d5b08cfb" />
+![FireShot Capture 027 - (2) Facebook -  www facebook com](https://github.com/user-attachments/assets/4c4d85fa-17dc-4b01-afe0-6b717ece8ee8)
+<img width="1351" height="2467" alt="FireShot Capture 024 - (2) Facebook -  www facebook com" src="https://github.com/user-attachments/assets/69c3ddee-a52a-438a-97e3-fde85c50fa28" />
 
 # instagram
 https://www.instagram.com/k.titiscarves/
